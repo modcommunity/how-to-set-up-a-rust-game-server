@@ -340,4 +340,4 @@ https://forum.moddingcommunity.com/t/how-to-install-umod-oxide-onto-your-rust-ga
 ### [Rust Autowipe Tool For Pterodactyl](https://github.com/gamemann/Rust-Auto-Wipe)
 I also made a [tool](https://github.com/gamemann/Rust-Auto-Wipe) for [Pterodactyl](https://pterodactyl.io) that automatically wipes a Rust server based on cron jobs. It comes with many features!
 
-Happy modding!
+Join our [Discord server](https://discord.moddingcommunuity.com)!
