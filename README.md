@@ -58,11 +58,12 @@ Before continuing, I wanted to break down and explain the required startup comma
 | `server.ip` | `0.0.0.0` | The IP address to bind the server to. Use `0.0.0.0` to bind to all IPs and network interfaces (most common).
 | `server.port` | `28015` | The UDP port to bind the server to.
 | `server.tickrate` | `10` | The tickrate to run the server at. Increasing this value will consume more resources. Use `10` if you're not sure.
-| `server.hostname` | `` | The server's hostname to use when users are trying to find the server within the server browser (or via A2S queries).
-| `server.identity` | `` | The name of the folder created inside of the `servers/` folder. This folder contains additional configuration files, map saves, player storage, and more.
-| `server.worldsize` | `` | The size of the world when generating a new one. |
-| `server.seed` | `` | The seed to use when generating a new world. |
-| `server.maxplayers` | `` | The maximum amount of players allowed on the server at once. |
+| `server.hostname` | *N/A* | The server's hostname to use when users are trying to find the server within the server browser (or via A2S queries).
+| `server.identity` | *N/A* | The name of the folder created inside of the `servers/` folder. This folder contains additional configuration files, map saves, player storage, and more. |
+| `server.level` | `Procedural Map` | The level to run the server on. |
+| `server.worldsize` | `4000` | The size of the world when generating a new one. |
+| `server.seed` | `8675309` | The seed to use when generating a new world. |
+| `server.maxplayers` | `200` | The maximum amount of players allowed on the server at once. |
 | `rcon.ip` | `0.0.0.0` | The IP to bind the RCON listener to. Use `0.0.0.0` to bind to all IPs and network interfaces (most command). |
 | `rcon.port` | `28016` | The TCP port to bind the RCON listener to. |
 | `rcon.password` | *N/A* | The password required to use RCON (make sure it's secure and **at least** 8 characters in length!). |
