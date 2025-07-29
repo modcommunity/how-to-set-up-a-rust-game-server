@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](./images/banner.png)
+![banner](https://github.com/modcommunity/how-to-set-up-a-rust-server/raw/main/images/banner.png)
 
 </div>
 
@@ -14,9 +14,9 @@ This guide is focused on setting up a **vanilla** server, but additional guides 
 * [Starting The Server](#starting-the-server)
     * [Startup Commands](#startup-commands)
     * [Windows](#windows)
-        * [Creating Startup Script](#creating-startup-script)
+        * [Creating Startup Script (Windows)](#creating-startup-script-windows)
     * [Linux](#linux)
-        * [Creating Startup Script](#creating-startup-script-1)
+        * [Creating Startup Script (Linux)](#creating-startup-script-linux)
         * [Using Screen](#using-screen)
 * [Additional Configuration](#additional-configuration)
 * [Conclusion](#conclusion)
@@ -107,7 +107,7 @@ Server startup complete
 SteamServer Connected
 ```
 
-#### Creating Startup Script
+#### Creating Startup Script (Windows)
 To make it easier to launch the server, let's create a [Batch](https://www.tutorialspoint.com/batch_script/index.htm) that automatically starts the server.
 
 1. Create a new file through the File Explorer using a text editor such as Notepad (built-in) or [VS Code](https://code.visualstudio.com/) and name the file `start.bat`.
@@ -193,7 +193,7 @@ SteamServer Connected
 
 **NOTE** - You can also execute and set commands through the server's console. If you retrieve a response, it indicates the server is online. For example, try executing the `status` command after the server is up!
 
-#### Creating Startup Script
+#### Creating Startup Script (Linux)
 Having to copy and paste the command we've compiled above can become annoying and tedious.
 
 To make things simpler, let's create a Bash script that starts up the Rust server.
