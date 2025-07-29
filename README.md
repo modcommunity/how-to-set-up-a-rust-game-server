@@ -8,6 +8,8 @@ A guide on how to **download**, **install**, and **configure** a [Rust](https://
 
 This guide is focused on setting up a **vanilla** server, but additional guides will be linked that go over how to **install mods and addons** like [uMod](https://umod.org/) (formerly Oxide).
 
+If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://forum.moddingcommunity.com/t/how-to-set-up-a-rust-game-server/499)! This guide will be worked and improved on over time.
+
 ## Table Of Contents
 * [Requirements](#requirements)
 * [Downloading Server Files](#downloading-server-files)
@@ -338,4 +340,4 @@ https://forum.moddingcommunity.com/t/how-to-install-umod-oxide-onto-your-rust-ga
 ### [Rust Autowipe Tool For Pterodactyl](https://github.com/gamemann/Rust-Auto-Wipe)
 I also made a [tool](https://github.com/gamemann/Rust-Auto-Wipe) for [Pterodactyl](https://pterodactyl.io) that automatically wipes a Rust server based on cron jobs. It comes with many features!
 
-This guide will be **worked** and **improved** on *over time*. If you have any suggestions or questions, please reach out!
+Happy modding!
