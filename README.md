@@ -13,6 +13,7 @@ This guide is focused on setting up a **vanilla** server, but additional guides 
 * [Downloading Server Files](#downloading-server-files)
 * [Starting The Server](#starting-the-server)
     * [Startup Commands](#startup-commands)
+        * [RCON Information](#rcon-information)
     * [Windows](#windows)
         * [Creating Startup Script (Windows)](#creating-startup-script-windows)
     * [Linux](#linux)
