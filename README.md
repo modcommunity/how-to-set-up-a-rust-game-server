@@ -342,4 +342,4 @@ I also made a [tool](https://github.com/gamemann/Rust-Auto-Wipe) for [Pterodacty
 
 If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://forum.moddingcommunity.com/t/how-to-set-up-a-rust-game-server/499)! This guide will be worked and improved on over time.
 
-Join our [Discord server](https://discord.moddingcommunuity.com)!
+Join our [Discord server](https://discord.moddingcommunity.com)!
