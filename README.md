@@ -1,14 +1,8 @@
-<div align="center">
-
-![banner](https://github.com/modcommunity/how-to-set-up-a-rust-server/raw/main/images/banner.png)
-
-</div>
-
-A guide on how to **download**, **install**, and **configure** a [Rust](https://rust.facepunch.com/) game server on **Windows** and **Linux**.
+In this guide we will be **downloading**, **installing**, and **configuring** a [Rust](https://rust.facepunch.com/) game server on **Windows** and **Linux**.
 
 This guide is focused on setting up a **vanilla** server, but additional guides will be linked that go over how to **install mods and addons** like [uMod](https://umod.org/) (formerly Oxide).
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://forum.moddingcommunity.com/t/how-to-set-up-a-rust-game-server/499)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-set-up-a-rust-server/)
 
 ## Table Of Contents
 * [Requirements](#requirements)
@@ -42,7 +36,7 @@ Firstly, you'll want to download the game server files using [SteamCMD](https://
 
 I've made a separate guide on how to download and use SteamCMD. Please give it a read below if you don't know how to use it. To note before reading the guide, the Rust server's app ID is `258550` for both Windows and Linux.
 
-https://forum.moddingcommunity.com/t/how-to-download-run-steamcmd-2025/190
+https://blog.moddingcommunity.com/how-to-download-run-steamcmd/
 
 After you've downloaded the server, navigate to the folder or directory with the following executable file.
 
@@ -340,6 +334,6 @@ https://forum.moddingcommunity.com/t/how-to-install-umod-oxide-onto-your-rust-ga
 ### [Rust Autowipe Tool For Pterodactyl](https://github.com/gamemann/Rust-Auto-Wipe)
 I also made a [tool](https://github.com/gamemann/Rust-Auto-Wipe) for [Pterodactyl](https://pterodactyl.io) that automatically wipes a Rust server based on cron jobs. It comes with many features!
 
-If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://forum.moddingcommunity.com/t/how-to-set-up-a-rust-game-server/499)! This guide will be worked and improved on over time.
+If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://blog.moddingcommunity.com/how-to-set-up-a-rust-server/)! This guide will be worked and improved on over time.
 
 Join our [Discord server](https://discord.moddingcommunity.com)!
