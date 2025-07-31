@@ -329,7 +329,7 @@ Running and managing Rust servers are fun to many users, but can also be very co
 ### How To Install [uMod](https://umod.org/)
 A guide I made on how to download, install, and configure [uMod](https://umod.org/) (Oxide).
 
-https://forum.moddingcommunity.com/t/how-to-install-umod-oxide-onto-your-rust-game-server-2025/489
+https://blog.moddingcommunity.com/how-to-install-umod-onto-rust-servers/
 
 ### [Rust Autowipe Tool For Pterodactyl](https://github.com/gamemann/Rust-Auto-Wipe)
 I also made a [tool](https://github.com/gamemann/Rust-Auto-Wipe) for [Pterodactyl](https://pterodactyl.io) that automatically wipes a Rust server based on cron jobs. It comes with many features!
